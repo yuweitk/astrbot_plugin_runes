@@ -1,0 +1,14 @@
+{
+  "interpretation_depth": {
+    "description": "解释深度",
+    "type": "string",
+    "options": ["简洁", "详细", "深度"],
+    "default": "详细"
+  },
+  "include_history": {
+    "description": "包含历史解读",
+    "type": "bool",
+    "default": true,
+    "hint": "是否在解读中包含符文的历史背景"
+  }
+}

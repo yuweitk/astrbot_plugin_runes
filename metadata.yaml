@@ -1,0 +1,5 @@
+name: 卢恩占卜
+author: 雨爲/yuweitk
+description: 基于LLM的卢恩符文占卜插件
+version: 1.0.0
+repository: https://github.com/yuweitk/astrbot_plugin_runes

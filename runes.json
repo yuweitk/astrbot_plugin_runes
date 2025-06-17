@@ -1,0 +1,229 @@
+{
+  "runes": [
+    {
+      "name": "菲胡",
+      "symbol": "ᚠ",
+      "english_name": "Fehu",
+      "meaning": "财富、丰饶、物质成功、能量流动",
+      "reversed_meaning": "财务损失、停滞、吝啬、能量阻塞",
+      "keywords": ["财富", "家畜", "丰饶", "能量"],
+      "category": "弗蕾雅族"
+    },
+    {
+      "name": "乌鲁兹",
+      "symbol": "ᚢ",
+      "english_name": "Uruz",
+      "meaning": "力量、健康、野性力量、生命力",
+      "reversed_meaning": "虚弱、滥用力量、健康问题",
+      "keywords": ["力量", "野牛", "健康", "生命力"],
+      "category": "弗蕾雅族"
+    },
+    {
+      "name": "苏里萨兹",
+      "symbol": "ᚦ",
+      "english_name": "Thurisaz",
+      "meaning": "保护、界限、雷神之锤、决断",
+      "reversed_meaning": "危险、犹豫不决、攻击性",
+      "keywords": ["雷神", "保护", "界限", "决断"],
+      "category": "弗蕾雅族"
+    },
+    {
+      "name": "安苏兹",
+      "symbol": "ᚫ",
+      "english_name": "Ansuz",
+      "meaning": "智慧、交流、奥丁、神圣启示",
+      "reversed_meaning": "误解、欺骗、沟通不畅",
+      "keywords": ["奥丁", "智慧", "交流", "启示"],
+      "category": "弗蕾雅族"
+    },
+    {
+      "name": "莱多",
+      "symbol": "ᚱ",
+      "english_name": "Raidho",
+      "meaning": "旅行、节奏、正确道路、人生旅程",
+      "reversed_meaning": "混乱、旅程受阻、不和谐",
+      "keywords": ["旅行", "马车", "节奏", "旅程"],
+      "category": "弗蕾雅族"
+    },
+    {
+      "name": "凯纳兹",
+      "symbol": "ᚲ",
+      "english_name": "Kenaz",
+      "meaning": "知识、启蒙、创造力、转化",
+      "reversed_meaning": "无知、虚假光明、创造力受阻",
+      "keywords": ["火炬", "知识", "启蒙", "创造力"],
+      "category": "弗蕾雅族"
+    },
+    {
+      "name": "格博",
+      "symbol": "ᚷ",
+      "english_name": "Gebo",
+      "meaning": "礼物、伙伴关系、平衡、牺牲",
+      "reversed_meaning": "不平衡、自私、依赖",
+      "keywords": ["礼物", "伙伴", "平衡", "牺牲"],
+      "category": "弗蕾雅族"
+    },
+    {
+      "name": "温究",
+      "symbol": "ᚹ",
+      "english_name": "Wunjo",
+      "meaning": "喜悦、和谐、成就、幸福",
+      "reversed_meaning": "悲伤、不和谐、延迟",
+      "keywords": ["喜悦", "和谐", "成就", "幸福"],
+      "category": "弗蕾雅族"
+    },
+    {
+      "name": "哈格拉兹",
+      "symbol": "ᚺ",
+      "english_name": "Hagalaz",
+      "meaning": "破坏、自然力量、转变、考验",
+      "reversed_meaning": "灾难、顽固抵抗变化",
+      "keywords": ["冰雹", "破坏", "转变", "考验"],
+      "category": "海姆达尔族"
+    },
+    {
+      "name": "纳奥帝斯",
+      "symbol": "ᚾ",
+      "english_name": "Nauthiz",
+      "meaning": "需要、限制、忍耐、自我约束",
+      "reversed_meaning": "过度限制、强迫、绝望",
+      "keywords": ["需要", "限制", "忍耐", "约束"],
+      "category": "海姆达尔族"
+    },
+    {
+      "name": "伊萨",
+      "symbol": "ᛁ",
+      "english_name": "Isa",
+      "meaning": "静止、冰、暂停、专注",
+      "reversed_meaning": "停滞、冷漠、冻结",
+      "keywords": ["冰", "静止", "暂停", "专注"],
+      "category": "海姆达尔族"
+    },
+    {
+      "name": "杰拉",
+      "symbol": "ᛃ",
+      "english_name": "Jera",
+      "meaning": "收获、周期、回报、正义",
+      "reversed_meaning": "延迟收获、不公正、时机未到",
+      "keywords": ["收获", "年", "周期", "正义"],
+      "category": "海姆达尔族"
+    },
+    {
+      "name": "艾瓦兹",
+      "symbol": "ᛇ",
+      "english_name": "Eihwaz",
+      "meaning": "韧性、紫杉树、保护、过渡",
+      "reversed_meaning": "脆弱、混乱、过渡困难",
+      "keywords": ["紫杉", "韧性", "保护", "过渡"],
+      "category": "海姆达尔族"
+    },
+    {
+      "name": "佩索",
+      "symbol": "ᛈ",
+      "english_name": "Perthro",
+      "meaning": "命运、神秘、机会、隐藏知识",
+      "reversed_meaning": "宿命论、坏运气、暴露秘密",
+      "keywords": ["命运", "骰子", "神秘", "机会"],
+      "category": "海姆达尔族"
+    },
+    {
+      "name": "阿尔吉兹",
+      "symbol": "ᛉ",
+      "english_name": "Algiz",
+      "meaning": "保护、本能、麋鹿、神圣连接",
+      "reversed_meaning": "脆弱、警告、失去保护",
+      "keywords": ["保护", "麋鹿", "本能", "神圣"],
+      "category": "海姆达尔族"
+    },
+    {
+      "name": "索维洛",
+      "symbol": "ᛊ",
+      "english_name": "Sowilo",
+      "meaning": "太阳、成功、清晰、生命力",
+      "reversed_meaning": "自负、过度、目标迷失",
+      "keywords": ["太阳", "成功", "清晰", "生命力"],
+      "category": "提尔族"
+    },
+    {
+      "name": "提瓦兹",
+      "symbol": "ᛏ",
+      "english_name": "Tiwaz",
+      "meaning": "正义、牺牲、战神、胜利",
+      "reversed_meaning": "不公正、失衡、牺牲无果",
+      "keywords": ["战神", "正义", "牺牲", "胜利"],
+      "category": "提尔族"
+    },
+    {
+      "name": "贝卡纳",
+      "symbol": "ᛒ",
+      "english_name": "Berkana",
+      "meaning": "生长、生育、桦树、新生",
+      "reversed_meaning": "停滞、生长受阻、家庭问题",
+      "keywords": ["桦树", "生长", "生育", "新生"],
+      "category": "提尔族"
+    },
+    {
+      "name": "埃瓦兹",
+      "symbol": "ᛖ",
+      "english_name": "Ehwaz",
+      "meaning": "运动、进步、伙伴、马",
+      "reversed_meaning": "停滞、不和谐、沟通不畅",
+      "keywords": ["马", "运动", "进步", "伙伴"],
+      "category": "提尔族"
+    },
+    {
+      "name": "曼纳兹",
+      "symbol": "ᛗ",
+      "english_name": "Mannaz",
+      "meaning": "人类、自我、智慧、社会",
+      "reversed_meaning": "孤立、自我中心、社会问题",
+      "keywords": ["人类", "自我", "智慧", "社会"],
+      "category": "提尔族"
+    },
+    {
+      "name": "拉格兹",
+      "symbol": "ᛚ",
+      "english_name": "Laguz",
+      "meaning": "水、直觉、流动、潜意识",
+      "reversed_meaning": "情绪混乱、直觉受阻",
+      "keywords": ["水", "直觉", "流动", "潜意识"],
+      "category": "提尔族"
+    },
+    {
+      "name": "英格瓦兹",
+      "symbol": "ᛜ",
+      "english_name": "Ingwaz",
+      "meaning": "生育、内在成长、休息、潜能",
+      "reversed_meaning": "不育、能量浪费、未实现潜能",
+      "keywords": ["生育", "成长", "休息", "潜能"],
+      "category": "提尔族"
+    },
+    {
+      "name": "奥瑟拉",
+      "symbol": "ᛟ",
+      "english_name": "Othala",
+      "meaning": "遗产、家庭、财产、传统",
+      "reversed_meaning": "失去传统、家庭冲突、物质主义",
+      "keywords": ["遗产", "家庭", "财产", "传统"],
+      "category": "提尔族"
+    },
+    {
+      "name": "达格斯",
+      "symbol": "ᛞ",
+      "english_name": "Dagaz",
+      "meaning": "突破、黎明、转变、平衡",
+      "reversed_meaning": "未实现的突破、不平衡",
+      "keywords": ["黎明", "突破", "转变", "平衡"],
+      "category": "提尔族"
+    },
+    {
+      "name": "空白符文",
+      "symbol": "ᛝ",
+      "english_name": "Wyrd",
+      "meaning": "命运、未知、奥丁的礼物",
+      "reversed_meaning": "混沌、不可预测性",
+      "keywords": ["命运", "未知", "奥丁", "神秘"],
+      "category": "特殊"
+    }
+  ]
+}
